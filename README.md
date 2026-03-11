@@ -1,9 +1,10 @@
-# cli-robust
-Learning project for cli-robust
+# CLI Robust
+
+Learning project for cli-robust.
 
 ## Features
-- Feature 1
-- Feature 2
+- Learning project focused on command-line interfaces
+- Provides various CLI utilities for testing and development
 
 ## Installation
 Clone the repository and run the installation command.
@@ -13,5 +14,3 @@ Provide examples of how to use the project.
 
 ## Support
 If you encounter any issues or have questions, please [open an issue](../../issues).
-
-For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
